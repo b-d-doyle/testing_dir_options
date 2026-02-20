@@ -2,7 +2,7 @@
 I will definitely delete this. I'm testing options before I pick one for UCF_CMR
 
 # Included Repos:
-Put links to the repos here -- you'll need them for the above commands
+Put links to the repos here
 
 Lesker275_logger/ https://github.com/b-d-doyle/Lesker275_logger.git
 
