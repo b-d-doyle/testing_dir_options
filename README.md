@@ -10,7 +10,8 @@ Get updates from a subtree'd repo (No permissions required):
 ```
 git subtree pull --prefix=<local-directory> <remote-url> <remote-branch>
 ```
-Push updates to a subtree'd repo (Only for your own repo):
+Push updates to a subtree'd repo (Permissions required; only for your own remote repos):
 ```
 git subtree push --prefix=<local-directory> <remote-url> <remote-branch>
 ```
+You can also pull from this repo to your remote repo (I hope. Instructions coming)
