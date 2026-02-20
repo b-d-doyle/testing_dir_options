@@ -19,11 +19,8 @@ You can also pull from this repo to your remote repo (I hope. Instructions comin
 # Included Repos:
 Put links to the repos here -- you'll need them for the above commands
 
-Lesker275_logger:
-> https://github.com/b-d-doyle/Lesker275_logger.git
+Lesker275_logger/ https://github.com/b-d-doyle/Lesker275_logger.git
 
-MKS925_serialRead:
-> https://github.com/b-d-doyle/MKS925_serialRead.git
+MKS925_serialRead/ https://github.com/b-d-doyle/MKS925_serialRead.git
 
-RF_Power_Control:
-> https://github.com/b-d-doyle/RF_Power_Control.git
+RF_Power_Control/ https://github.com/b-d-doyle/RF_Power_Control.git
