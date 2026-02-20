@@ -6,9 +6,9 @@ Add a repo to this repo:
 ```
 git subtree add --prefix=<local-directory> <remote-url> <remote-branch> --squash
 ```
-Get updates from a subtree'd repo (No permissions required): --squash
+Get updates from a subtree'd repo (No permissions required):
 ```
-git subtree pull --prefix=<local-directory> <remote-url> <remote-branch>
+git subtree pull --prefix=<local-directory> <remote-url> <remote-branch> --squash
 ```
 Push updates to a subtree'd repo (Permissions required; only for your own remote repos):
 ```
