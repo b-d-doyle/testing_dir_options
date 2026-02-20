@@ -2,13 +2,13 @@
 I will definitely delete this. I'm testing options before I pick one for UCF_CMR
 
 # Included Repos:
-Put links to the repos here
+Put links to the repos here. Follow this format to copy/paste into bash commands below.
 
-Lesker275_logger/ https://github.com/b-d-doyle/Lesker275_logger.git
+- Lesker275_logger/ https://github.com/b-d-doyle/Lesker275_logger.git main
 
-MKS925_serialRead/ https://github.com/b-d-doyle/MKS925_serialRead.git
+- MKS925_serialRead/ https://github.com/b-d-doyle/MKS925_serialRead.git main
 
-RF_Power_Control/ https://github.com/b-d-doyle/RF_Power_Control.git
+- RF_Power_Control/ https://github.com/b-d-doyle/RF_Power_Control.git main
 
 # bash commands:
 Add a repo to this repo:
